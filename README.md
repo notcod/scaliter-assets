@@ -1,1 +1,1 @@
-# scaliter/request
+# scaliter/assets
