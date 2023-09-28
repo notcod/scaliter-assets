@@ -1,0 +1,12 @@
+{
+    "name": "scaliter/assets",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Scaliter\\": "src/"
+        }
+    },
+    "require": {
+    },
+    "license": "MIT"
+}
